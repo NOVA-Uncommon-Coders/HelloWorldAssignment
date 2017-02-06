@@ -6,7 +6,7 @@ public class Main {
 
         String myName = "Jacob";
 
-        System.out.println("JacobP");
+        System.out.println(myName);
 
     }
 }
