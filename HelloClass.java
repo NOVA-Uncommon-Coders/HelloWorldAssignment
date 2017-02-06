@@ -1,10 +1,13 @@
 /**
  * Created by willc on 2/6/17.
+ *
+ * no constructor was used because name is only set when
+ * the setName is ran.
  */
 import java.util.Scanner;
 
 public class HelloClass {
-    private String name;
+    private String name="default_name";
 
     public String getName(){
         return name;
