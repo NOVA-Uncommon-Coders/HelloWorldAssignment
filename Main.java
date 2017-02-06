@@ -4,6 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-System.out.println("Olympew");
+        String myname="Olympew";
+        System.out.println(myname);
+
     }
 }
+
+
+
