@@ -2,9 +2,9 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-    public static String Name(){
-        String name = "Alvaro Balboa";
-        return name;
+    public static int Number(){
+        int number =14;
+        return number;
     }
     public static void main(String[] args) {
         /*Scanner kb = new Scanner(System.in);
@@ -19,7 +19,7 @@ public class Main {
             System.out.printf("My name is %s",name);
         */
         //System.out.printf("Alvaro Balboa");
-        System.out.println(Name());
+        System.out.println(Number());
         //Main test = new Main();
         //test.Name();
     }
